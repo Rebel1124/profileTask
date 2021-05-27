@@ -1,7 +1,6 @@
 //Import the Link API to support client-side navigation
 import Link from 'next/link'
 import Layout from '../components/MyLayout'
-import Image from 'react-bootstrap/Image'
 
 /* Notice in the example below how we render static images with Next.js:
 Create a folder called static in your project root directory. From your code you can then reference those files with /static/ URLs (see<img src={`/static/art/${props.data.image}.jpg`} alt=""/>) 
@@ -9,8 +8,7 @@ Note: Don't name the static directory anything else. The name is required and is
 export default () => (
 	<Layout>
 		<br />
-		<Image style={{borderRadius:"50%", padding:"15px", marginLeft:"450px"}} class = "img-circle" alt="Image" height="200px" width="150px" src="/static/images/myPic.jpg/" thumbnail />
-	    <br />
+
 		<h1 style={{color: "midnightblue", textAlign:"center", marginRight:"250px"}}>Professional Summary</h1>
 
 		<br />
