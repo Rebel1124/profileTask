@@ -30,7 +30,6 @@ const Layout = (props) => (
 		/>
 	
 	
-		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-7T85SNLVFQ"></script>
 		<script>
   		window.dataLayer = window.dataLayer || [];
