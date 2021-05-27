@@ -30,13 +30,13 @@ const Layout = (props) => (
 		/>
 	
 	
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-7T85SNLVFQ"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-J4W5Y99N7W"></script>
 		<script>
   		window.dataLayer = window.dataLayer || [];
   		function gtag(){dataLayer.push(arguments);}
   		gtag('js', new Date());
 
-  		gtag('config', 'G-7T85SNLVFQ');
+  		gtag('config', 'G-J4W5Y99N7W');
 		</script>
 	
 	
